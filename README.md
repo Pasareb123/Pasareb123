@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Prince, and I'm a Computer Science student interested and passionate in all things python & machie learming and data science engineer!
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🔭 I’m currently working on Python Projects and machine learning mini Projects
+- 🌱 I recently working on an app that simplifies expense sharing among roomates and a Medical Appointmet Scheduler.
+- 👯 I’m looking to collaborate on python projects and machine learning projects.
 
 **Pasareb123/Pasareb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
